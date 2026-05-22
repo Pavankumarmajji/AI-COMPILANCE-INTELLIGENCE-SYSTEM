@@ -1,0 +1,7 @@
+project_id = "ubefsgifafdzjsatmryi"
+
+[functions.fetch-regulatory-updates]
+verify_jwt = false
+
+[functions.analyze-policy]
+verify_jwt = true
